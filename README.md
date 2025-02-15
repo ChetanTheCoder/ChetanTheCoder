@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-dev" alt="chetan-dev" /></a> </p>
 
-- 🌟 I’m currently working on **TaskMetrics: Insightful Task Management**
+- 🌟 I’m currently working on **AI-Driven Personalized Learning Platform**
 
-- 📚 I’m currently learning **Advanced Full-Stack Development & Data Structures**
+- 📚 I’m currently learning **Advanced Full-Stack Development , Data Structures , & AI integration **
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, and API Development**
 
-- 📧 How to reach me **chetan.dev@example.com**
+- 📧 How to reach me **chetanmajumdar3@gmail.com**
 
-- 📜 Know about my experiences [My Resume](https://drive.google.com/file/d/your_resume_link/view?usp=sharing)
+- 📜 Know about my experiences [My Resume](in progress)
 
 - ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
