@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanTheCoder&show_icons=true&locale=en" alt="chetan-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanTheCoder&" alt="chetan-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanTheCoder&" alt="chetan-dev" /></p>
