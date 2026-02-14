@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chetan Majumadar </h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Chetan Majumadar</h1>
+<h3 align="center">Full-Stack Developer | Building impactful web experiences with modern JavaScript, AI, and clean architecture</h3>
+
+<p align="center">
+I love turning ideas into scalable products. My focus is on creating responsive user interfaces, reliable backend systems, and meaningful developer-friendly APIs. I enjoy solving real-world problems through thoughtful product design and continuous learning.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanTheCoder&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-dev" /> </p>
 
@@ -9,18 +13,12 @@
   </a> 
 </p>
 
-
-- 🌟 I’m currently working on **AI-Driven Personalized Learning Platform**
-
-- 📚 I’m currently learning **Advanced Full-Stack Development , Data Structures , & AI integration **
-
-- 💬 Ask me about **React.js, Node.js, MongoDB, and API Development**
-
-- 📧 How to reach me **chetanmajumdar3@gmail.com**
-
+- 🌟 I’m currently building **an AI-driven personalized learning platform**
+- 📚 I’m currently learning **advanced full-stack engineering, data structures, and AI integration**
+- 💬 Ask me about **React.js, Node.js, MongoDB, and API development**
+- 📧 Reach me at **chetanmajumdar3@gmail.com**
 - 📜 Know about my experiences [My Resume](in progress)
-
-- ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+- ⚡ Fun fact: **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
