@@ -17,7 +17,7 @@ I love turning ideas into scalable products. My focus is on creating responsive 
 - 📚 I’m currently learning **advanced full-stack engineering, data structures, and AI integration**
 - 💬 Ask me about **React.js, Node.js, MongoDB, and API development**
 - 📧 Reach me at **chetanmajumdar3@gmail.com**
-- 📜 Know about my experiences [My Resume](in progress)
+- 📜 Know about my experiences <a href="https://drive.google.com/file/d/16PmAjPFVmnaWcIqjV-l2J6zKoZ2xWh5Q/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
 - ⚡ Fun fact: **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
